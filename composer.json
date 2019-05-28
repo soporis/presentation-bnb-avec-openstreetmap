@@ -1,0 +1,12 @@
+{
+    "name": "jonathan/map-marker",
+    "authors": [
+        {
+            "name": "Jonathan Boyer",
+            "email": "contact@grafikart.fr"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.7"
+    }
+}
